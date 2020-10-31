@@ -276,7 +276,7 @@ define("MSG_minCharSerarch","A expressão de busca <i>%s</i> tem somente <strong
 
 /* v 1.04 */
 define("LABEL_terminoExistente","termo existente");
-define("HELP_variosTerminos","Para adicionar vários termos de uma vez encarna uma palavra por linha</strong>.");
+define("HELP_variosTerminos","Para adicionar vários termos de uma vez, insira uma palavra por linha</strong>.");
 
 
 /* v 1.05 */
